@@ -1,8 +1,13 @@
 # 📚 Fórmulas e Funções Básicas
 
-Planilha desenvolvida para estudos de Excel e LibreOffice Calc.
+Projeto desenvolvido para estudos de Excel e LibreOffice Calc.
+
+## 📸 Preview
+
+![Preview](preview.png)
 
 ## ✨ Conteúdos
+
 - SOMA
 - MÉDIA
 - MAIOR e MENOR
@@ -10,5 +15,8 @@ Planilha desenvolvida para estudos de Excel e LibreOffice Calc.
 - Organização de dados
 
 ## 🛠️ Tecnologias
+
 - Excel
 - LibreOffice Calc
+
+---
