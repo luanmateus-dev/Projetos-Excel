@@ -78,17 +78,7 @@ Este repositório foi criado com o objetivo de desenvolver conhecimentos em:
 
 # 👨‍💻 Autor
 
-## Luan M 🚀
+## Luan Mateus Anastácio de Oliveira🚀
 
 🎓 Estudante de Sistemas de Informação  
 📚 Aprendendo cada vez mais sobre tecnologia, dados e programação.
-
-### 🔗 Links
-- 🌐 GitHub: coloque aqui seu link
-- 💼 LinkedIn: coloque aqui seu link (se tiver)
-
----
-
-# ⭐ Sobre
-
-Se você gostou do projeto, deixe uma ⭐ no repositório!
