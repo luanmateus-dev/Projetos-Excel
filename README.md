@@ -50,7 +50,5 @@ Atualmente estudando:
 
 Luan Mateus Anastácio de Oliveira
 
-📎 GitHub: https://github.com/seuusuario
-
 ---
 ⭐ Obrigado por visitar meu repositório!
