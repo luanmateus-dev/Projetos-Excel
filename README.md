@@ -1,81 +1,94 @@
-📊 Planilhas Excel - Estudos e Controle de Estoque
+# 📊 Planilhas Excel - Estudos e Controle de Estoque
 
-Este repositório contém planilhas desenvolvidas no Excel/LibreOffice Calc com foco em prática de fórmulas, funções, análise de dados e controle de estoque.
+Bem-vindo ao meu repositório de planilhas! 🚀  
+Aqui estão alguns projetos desenvolvidos utilizando **Excel** e **LibreOffice Calc**, com foco em aprendizado, organização de dados e automação de processos.
 
-📁 Arquivos do Projeto
-📦 Sistema_Controle.xlsx
+---
 
-Planilha desenvolvida para simular um sistema de controle de estoque de produtos.
+# 📁 Arquivos do Projeto
 
-✅ Funcionalidades
+## 📦 Sistema_Controle.xlsx
 
-Cadastro de produtos
-Registro de entradas
-Registro de saídas
-Controle automático de estoque
-Consulta de produtos
-Gráficos automáticos
-Identificação de estoque baixo
+Sistema simples de controle de estoque desenvolvido em planilha.
 
-📋 Abas do arquivo
+### ✨ Funcionalidades
+✅ Cadastro de produtos  
+✅ Controle de entradas e saídas  
+✅ Atualização automática do estoque  
+✅ Consulta de produtos  
+✅ Indicador de estoque baixo  
+✅ Gráficos automáticos  
 
-Cadastro_Produtos
-Entradas
-Saídas
-Controle_Estoque
-Consulta
-Gráficos
+### 🛠️ Recursos Utilizados
+- 📌 Fórmulas automáticas
+- 📌 PROCV
+- 📌 SOMA
+- 📌 Formatação condicional
+- 📌 Organização de banco de dados
+- 📌 Gráficos dinâmicos
 
-🛠️ Recursos utilizados
+### 📂 Abas do Arquivo
+- 📄 Cadastro_Produtos
+- 📄 Entradas
+- 📄 Saídas
+- 📄 Controle_Estoque
+- 📄 Consulta
+- 📄 Gráficos
 
-Fórmulas automáticas
-PROCV/consulta de dados
-SOMA e cálculos automáticos
-Formatação condicional
-Gráficos dinâmicos
-Organização de banco de dados simples
+---
 
-📚 curso guanabara.xlsx
+## 📚 curso guanabara.xlsx
 
-Planilha criada durante estudos de Excel/LibreOffice Calc com exercícios básicos e intermediários.
+Planilha criada durante os estudos de Excel/LibreOffice Calc com exercícios práticos.
 
-✅ Conteúdos praticados
+### ✨ Conteúdos Praticados
+✅ Fórmulas básicas  
+✅ Funções matemáticas  
+✅ Organização de tabelas  
+✅ Manipulação de dados  
+✅ Operações automáticas  
 
-Fórmulas básicas
-Funções
-Organização de dados
-Levantamento populacional
-Classificação de municípios
-Operações matemáticas automáticas
+### 🛠️ Recursos Utilizados
+- 📌 SOMA
+- 📌 MÉDIA
+- 📌 MAIOR e MENOR
+- 📌 Fórmulas automáticas
+- 📌 Estruturação de tabelas
 
-📋 Abas do arquivo
+### 📂 Abas do Arquivo
+- 📄 Planilha1
+- 📄 Planilha2
+- 📄 Fórmulas Básicas
+- 📄 Funções
 
-Planilha1
-Planilha2
-formulas basicas
-funções
+---
 
-🛠️ Recursos utilizados
+# 🎯 Objetivo do Projeto
 
-SOMA
-MÉDIA
-MAIOR e MENOR
-Operações matemáticas
-Organização de tabelas
-Manipulação de dados
+Este repositório foi criado com o objetivo de desenvolver conhecimentos em:
 
-🎯 Objetivo
+💻 Excel  
+📊 LibreOffice Calc  
+🧮 Fórmulas e Funções  
+📈 Análise de Dados  
+⚙️ Automação de Planilhas  
+🗂️ Organização de Informações  
 
-Este projeto foi criado com o objetivo de praticar:
+---
 
-Excel
-LibreOffice Calc
-Fórmulas e funções
-Organização de dados
-Automação de planilhas
-Criação de sistemas simples utilizando planilhas
+# 👨‍💻 Autor
 
-👨‍💻 Autor
+## Luan M 🚀
 
-Desenvolvido por Luan Mateus Anastácio de Oliveira.
-Estudante de Sistemas de Informação 🚀
+🎓 Estudante de Sistemas de Informação  
+📚 Aprendendo cada vez mais sobre tecnologia, dados e programação.
+
+### 🔗 Links
+- 🌐 GitHub: coloque aqui seu link
+- 💼 LinkedIn: coloque aqui seu link (se tiver)
+
+---
+
+# ⭐ Sobre
+
+Se você gostou do projeto, deixe uma ⭐ no repositório!
