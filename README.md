@@ -37,7 +37,7 @@ Sistema simples de controle de estoque desenvolvido em planilha.
 
 ---
 
-## 📚 curso guanabara.xlsx
+## 📚 Formulas e Funções Basicas.xlsx
 
 Planilha criada durante os estudos de Excel/LibreOffice Calc com exercícios práticos.
 
