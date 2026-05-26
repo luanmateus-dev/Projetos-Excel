@@ -19,7 +19,7 @@ Aqui estão algumas planilhas desenvolvidas para prática, estudos e organizaç�
 - Microsoft Excel
 - LibreOffice Calc
 - GitHub
-
+  
 ---
 
 ## 🎯 Objetivo
