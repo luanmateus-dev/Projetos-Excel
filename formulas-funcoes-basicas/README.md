@@ -4,7 +4,7 @@ Projeto desenvolvido para estudos de Excel e LibreOffice Calc.
 
 ## 📸 Preview
 
-![Preview](preview.png)
+![Preview](dashboard.png)
 
 ## ✨ Conteúdos
 
