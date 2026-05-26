@@ -1,54 +1,81 @@
-# 📊 Planilhas e Estudos
+📊 Planilhas Excel - Estudos e Controle de Estoque
 
-Bem-vindo(a) ao meu repositório!  
-Aqui estão algumas planilhas desenvolvidas para prática, estudos e organização de dados utilizando ferramentas de escritório e análise.
+Este repositório contém planilhas desenvolvidas no Excel/LibreOffice Calc com foco em prática de fórmulas, funções, análise de dados e controle de estoque.
 
----
+📁 Arquivos do Projeto
+📦 Sistema_Controle.xlsx
 
-## 📁 Conteúdo
+Planilha desenvolvida para simular um sistema de controle de estoque de produtos.
 
-📌 Planilhas de estudos  
-📌 Exercícios práticos  
-📌 Organização de dados  
-📌 Controle e análise em planilhas  
+✅ Funcionalidades
 
----
+Cadastro de produtos
+Registro de entradas
+Registro de saídas
+Controle automático de estoque
+Consulta de produtos
+Gráficos automáticos
+Identificação de estoque baixo
 
-## 🛠️ Ferramentas utilizadas
+📋 Abas do arquivo
 
-- Microsoft Excel
-- LibreOffice Calc
-- GitHub
-  
----
+Cadastro_Produtos
+Entradas
+Saídas
+Controle_Estoque
+Consulta
+Gráficos
 
-## 🎯 Objetivo
+🛠️ Recursos utilizados
 
-Este repositório foi criado com o objetivo de desenvolver habilidades em:
+Fórmulas automáticas
+PROCV/consulta de dados
+SOMA e cálculos automáticos
+Formatação condicional
+Gráficos dinâmicos
+Organização de banco de dados simples
 
-- Manipulação de dados
-- Fórmulas e funções
-- Organização de informações
-- Estruturação de planilhas
-- Versionamento com GitHub
+📚 curso guanabara.xlsx
 
----
+Planilha criada durante estudos de Excel/LibreOffice Calc com exercícios básicos e intermediários.
 
-## 🚀 Em aprendizado
+✅ Conteúdos praticados
 
-Atualmente estudando:
+Fórmulas básicas
+Funções
+Organização de dados
+Levantamento populacional
+Classificação de municípios
+Operações matemáticas automáticas
 
-- Planilhas avançadas
-- Tecnologia da Informação
-- Programação
-- Banco de Dados
-- Git e GitHub
+📋 Abas do arquivo
 
----
+Planilha1
+Planilha2
+formulas basicas
+funções
 
-## 👨‍💻 Autor
+🛠️ Recursos utilizados
 
-Luan Mateus Anastácio de Oliveira
+SOMA
+MÉDIA
+MAIOR e MENOR
+Operações matemáticas
+Organização de tabelas
+Manipulação de dados
 
----
-⭐ Obrigado por visitar meu repositório!
+🎯 Objetivo
+
+Este projeto foi criado com o objetivo de praticar:
+
+Excel
+LibreOffice Calc
+Fórmulas e funções
+Organização de dados
+Automação de planilhas
+Criação de sistemas simples utilizando planilhas
+
+👨‍💻 Autor
+
+Desenvolvido por Luan Mateus Anastácio de Oliveira.
+Estudante de Sistemas de Informação 🚀
